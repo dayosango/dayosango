@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align='center'> Hi there, I'm Dayo  👋 </h1>
 
-<!--
-**dayosango/dayosango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I am a **Junior Data Scientist** based in London, passionate about utilising data analytics to positively impact communities across the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- :dizzy: Excited about all things data, machine learning and AI, and looking for opportunities to connect with others on a similar journey. 
+
+- :books: Currently learning more about Big Data processing (AWS, Hadoop, Spark), Tensowflow and SQL.
+
+- :thought_balloon: When I am not thinking of ways to save the world with my code... I am trawling through the city, cuisine by cuisine or booking my next travel destination (not just with the sole purpose of trying out new foods...). 
+
+- 💬 Ask me about... how my fascination with data science began
+
+- 👋 Connect with me [here](https://www.linkedin.com/in/dayosangowawa/) 
