@@ -7,6 +7,6 @@ I am a **Data Consultant** based in London, passionate about utilising data anal
 
 - :dizzy: Excited about all things data, machine learning and AI, and looking for opportunities to connect with others on a similar journey. 
 
-- :books: Currently learning more about Big Data processing (AWS, Hadoop, Spark), Deep Learning (TensorFlow and PyTorch) and GenAI frameworks.
+- :books: Currently learning more about Cloud Technologies, Deployment, Deep Learning (TensorFlow and PyTorch) and GenAI frameworks.
 
 - 👋 Connect with me [here](https://www.linkedin.com/in/dayosangowawa/) 
